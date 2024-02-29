@@ -1,0 +1,6 @@
+@organicEcomApi_HostAddress = http://localhost:5143
+
+GET {{organicEcomApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
